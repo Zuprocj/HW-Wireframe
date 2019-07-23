@@ -4,9 +4,9 @@
 }
 
 body {
-    font family: arial, helvetica neue, helvetica, sans-serif;
+    font family: arial, helvetica, sans-serif;
     color: #777;
-    background: #777;
+    background: green;
     width: '960px';
     font-size: '18px';
 }
